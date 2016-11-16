@@ -25,8 +25,8 @@
   },
 
   "dependencies": {
-    "config-multipaas": "^0.1.0",
-    "restify": "^2.8.3"
+    "config-multipaas": "^0.2.2",
+    "restify": "^4.3.0"
   },
   "devDependencies": {},
   "bundleDependencies": [],
