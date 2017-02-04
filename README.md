@@ -1,5 +1,7 @@
 Node.js on OpenShift
 ====================================================================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/nodejs-custom-version-openshift.svg)](https://greenkeeper.io/)
 This package includes a dynamic Node.js build stage that will provide your application with a customized Node.js runtime.
 The version of Node that is available will depend on the requirements listed in your application's `package.json` file.
 
